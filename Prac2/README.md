@@ -1,4 +1,4 @@
-# Practical 2: 2D Rendering  
+# ⭐ Practical 2: 2D Rendering ⭐  
 
 Rendered a scene populated with simple 2D objects that could have transformations applied to each object.  
 2D shapes created:
