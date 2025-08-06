@@ -1,5 +1,1 @@
-Open Docker
-Open a  new terminal in the file directory
-Enter "docker-compose build" and "docker-compose up"
-Open directory in vs Code
-open a new terminal in vsCode and enter "make all"
+
