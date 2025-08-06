@@ -1,4 +1,4 @@
-## Practical 2: 2D Rendering  
+# Practical 2: 2D Rendering  
 
 Rendered a scene populated with simple 2D objects that could have transformations applied to each object.  
 2D shapes created:
@@ -29,3 +29,10 @@ Keys:
 - -: Scale object down
 - E: Rotate object right
 - Q: Rotate object left
+
+# Compiling instructions
+Open Docker  
+Open a  new terminal in the file directory  
+Enter "docker-compose build" and "docker-compose up"  
+Open directory in vs Code  
+open a new terminal in vsCode and enter "make all"  
